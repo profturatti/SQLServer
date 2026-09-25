@@ -8,7 +8,7 @@ Turmas: DS4P12 e DS4Q12
 
 2o. Horário: 20h45-22h00
 
-[Materiais complementares: Apostilas, eBooks, Slides, Vídeos](https://github.com/profturatti/SQLServer/tree/main/materiais) | \[Grupos\] | Orientações para o projeto: [NP1](https://github.com/profturatti/SQLServer/blob/main/materiais/PBD_NP1.pdf) \[NP2\]
+[Materiais complementares: Apostilas, eBooks, Slides, Vídeos](https://github.com/profturatti/SQLServer/tree/main/materiais) | [Grupos](https://github.com/profturatti/SQLServer/blob/main/materiais/grupos.txt) | Orientações para o projeto: [NP1](https://github.com/profturatti/SQLServer/blob/main/materiais/PBD_NP1.pdf) \[NP2\]
 
 |  DATA  | Descrição / Matéria Lecionada | Materiais 
 |--------|--------|--------
