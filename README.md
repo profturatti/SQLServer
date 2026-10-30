@@ -24,10 +24,10 @@ Turmas: DS4P12 e DS4Q12
 | 16.out | AULA 08 - 6. Cursors e FETCH; 6.1 Criação e manipulação de cursors em SQL Server; 6.2 Navegação de dados, desempenho e alternativas ao uso de cursores | [Módulo 6](https://github.com/profturatti/SQLServer/blob/main/materiais/aula06_SQL_Server_Cursors.pdf) \[SQL\]
 | 23.out | AULA 09 - 7. Otimização de consultas e índices; 7.1 Planos de execução, índices e técnicas de otimização de consultas; 7.2 Ferramentas de monitoramento e análise de desempenho no SQL Server | [Módulo 7](https://github.com/profturatti/SQLServer/blob/main/materiais/aula07_SQL_Server_Otimizacao.pdf) \[SQL\]
 | 30.out | AULA 10 - 8. Segurança e boas práticas em programação de banco de dados; 8.1 Controle de acesso, permissões e proteção contra vulnerabilidades; 8.2 Organização, manutenção e documentação de código T-SQL | [Módulo 8](https://github.com/profturatti/SQLServer/blob/main/materiais/aula08_SQL_Server_Seguranca.pdf) \[SQL\]
-| 06.nov | Avaliação NP2
-| 13.nov | Prova SUB - Questões de múltipla escolha de todos os módulos
+| 06.nov | AULA 11 - Resolução de dúvidas do projeto e respectiva entrega
+| 13.nov | Avaliação NP2 - Apresentação do projeto final
 | 20.nov | FERIADO
-| 27.nov | Revisão de provas NP2 e SUB
+| 27.nov | Prova SUB - Questões de múltipla escolha de todos os módulos 
 | 04.dez | Não haverá aula
 | 11.dez | EXAME
 | 18.dez | Revisão de notas e faltas / Encerramento do semestre
