@@ -19,13 +19,13 @@ Turmas: DS4P12 e DS4Q12
 | 11.set | AULA 04 - 2. Stored Procedures; 2.1 Criação, execução e parametrização de stored procedures; 2.2 Técnicas de otimização, segurança e monitoramento de procedimentos armazenados | [Módulo 2](https://github.com/profturatti/SQLServer/blob/main/materiais/modulo2_Stored_Procedures.pdf)
 | 18.set | AULA 05 - 3. Functions e Views; 3.1 Criação e utilização de funções escalares e de tabela; 3.2 Implementação, atualização e restrições de views | [Módulo 3](https://github.com/profturatti/SQLServer/blob/main/materiais/modulo3_Functions_e_Views.pdf)
 | 25.set | Avaliação NP1 + Entrega projeto (fase1)
-| 02.out | AULA 06 - Revisão NP1; 4. Triggers; 4.1 Implementação de triggers para regras de negócio, auditoria e controle de integridade; 4.2 Boas práticas e impactos das triggers no desempenho do banco de dados | [Módulo 4](https://github.com/profturatti/SQLServer/blob/main/materiais/aula04_SQL_Server_Triggers.pdf)
-| 09.out | AULA 07 - 5. Transações e controle de concorrência; 5.1 Propriedades ACID e gerenciamento de transações; 5.2 Controle de concorrência, níveis de isolamento, locks e deadlocks | [Módulo 5](https://github.com/profturatti/SQLServer/blob/main/materiais/aula05_SQL_Server_Transacoes.pdf)
-| 16.out | AULA 08 - 6. Cursors e FETCH; 6.1 Criação e manipulação de cursors em SQL Server; 6.2 Navegação de dados, desempenho e alternativas ao uso de cursores | [Módulo 6](https://github.com/profturatti/SQLServer/blob/main/materiais/aula06_SQL_Server_Cursors.pdf)
-| 23.out | AULA 09 - 7. Otimização de consultas e índices; 7.1 Planos de execução, índices e técnicas de otimização de consultas; 7.2 Ferramentas de monitoramento e análise de desempenho no SQL Server | [Módulo 7](https://github.com/profturatti/SQLServer/blob/main/materiais/aula07_SQL_Server_Otimizacao.pdf)
-| 30.out | AULA 10 - 8. Segurança e boas práticas em programação de banco de dados; 8.1 Controle de acesso, permissões e proteção contra vulnerabilidades; 8.2 Organização, manutenção e documentação de código T-SQL | [Módulo 8](https://github.com/profturatti/SQLServer/blob/main/materiais/aula08_SQL_Server_Seguranca.pdf)
+| 02.out | AULA 06 - Revisão NP1; 4. Triggers; 4.1 Implementação de triggers para regras de negócio, auditoria e controle de integridade; 4.2 Boas práticas e impactos das triggers no desempenho do banco de dados | [Módulo 4](https://github.com/profturatti/SQLServer/blob/main/materiais/aula04_SQL_Server_Triggers.pdf) \[SQL\]
+| 09.out | AULA 07 - 5. Transações e controle de concorrência; 5.1 Propriedades ACID e gerenciamento de transações; 5.2 Controle de concorrência, níveis de isolamento, locks e deadlocks | [Módulo 5](https://github.com/profturatti/SQLServer/blob/main/materiais/aula05_SQL_Server_Transacoes.pdf) \[SQL\]
+| 16.out | AULA 08 - 6. Cursors e FETCH; 6.1 Criação e manipulação de cursors em SQL Server; 6.2 Navegação de dados, desempenho e alternativas ao uso de cursores | [Módulo 6](https://github.com/profturatti/SQLServer/blob/main/materiais/aula06_SQL_Server_Cursors.pdf) \[SQL\]
+| 23.out | AULA 09 - 7. Otimização de consultas e índices; 7.1 Planos de execução, índices e técnicas de otimização de consultas; 7.2 Ferramentas de monitoramento e análise de desempenho no SQL Server | [Módulo 7](https://github.com/profturatti/SQLServer/blob/main/materiais/aula07_SQL_Server_Otimizacao.pdf) \[SQL\]
+| 30.out | AULA 10 - 8. Segurança e boas práticas em programação de banco de dados; 8.1 Controle de acesso, permissões e proteção contra vulnerabilidades; 8.2 Organização, manutenção e documentação de código T-SQL | [Módulo 8](https://github.com/profturatti/SQLServer/blob/main/materiais/aula08_SQL_Server_Seguranca.pdf) \[SQL\]
 | 06.nov | Avaliação NP2
-| 13.nov | Prova SUB
+| 13.nov | Prova SUB - Questões de múltipla escolha de todos os módulos
 | 20.nov | FERIADO
 | 27.nov | Revisão de provas NP2 e SUB
 | 04.dez | Não haverá aula
